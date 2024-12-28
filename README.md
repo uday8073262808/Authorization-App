@@ -46,5 +46,22 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
+Screenshots--
+
+
+
+https://github.com/user-attachments/assets/56467aad-dddd-4b2b-8ab6-6e163e9a674b
+
+
+
+
+![WhatsApp Image 2024-12-28 at 22 54 42_85f66d70](https://github.com/user-attachments/assets/5643af81-a611-4eb6-853a-c124253d4623)
+
+
+
+
+
+![WhatsApp Image 2024-12-28 at 22 54 43_da46d1a8](https://github.com/user-attachments/assets/869c545e-9662-48fc-9f40-ec9fd5f98e7e)
+
 
 
